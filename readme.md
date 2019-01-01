@@ -4,7 +4,7 @@ This is a of simple Ping Pong example between two actors,
 `PingActor` and `PongActor`. 
 However, there's a 3rd actor called `PingPongProxy` 
 will help these two actors to introduce each other, 
-and after the introduction `PingActor` and `PongActor` talk to each other. 
+and after the introduction `PingActor` and `PongActor` can talk to each other. 
 
 Application start with `DemoApplication.scala`, 
 in which we create one actor system. 
